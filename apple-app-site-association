@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "MLTHRM9WV4.bernikovich.UniversalLinks",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
